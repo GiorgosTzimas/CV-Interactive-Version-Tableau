@@ -2,13 +2,13 @@
 
 This repository contains a more fun and interactive version of my CV using Tableau.  
 
+## How to View
+
+View the interactive dashboard by pressing <a href="https://public.tableau.com/app/profile/giorgos.tzimas4984/viz/GiorgosTzimasCV/Dashboard2" style="text-decoration: underline;">**here**</a>
+
 ## Overview
 
 ![Overview](images/cv_overview.png)
-
-## How to View
-
-View the interactive dashboard <a href="https://public.tableau.com/app/profile/giorgos.tzimas4984/viz/GiorgosTzimasCV/Dashboard2" style="text-decoration: underline;">**here**</a>
 
 ## Purpose
 
