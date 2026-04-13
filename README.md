@@ -15,7 +15,7 @@ View the interactive dashboard by pressing <a href="https://public.tableau.com/a
 This project demonstrates:
 
 - Data visualization skills  
-- Ability to structure and present information clearly  
+- Ability to structure and present information in a clear and minimal way at the same time
 - Use of Tableau for storytelling and dashboard design  
 
 ## Notes
