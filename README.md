@@ -20,8 +20,7 @@ This project demonstrates:
 
 ## Notes
 
-- The data included is curated specifically for presentation purposes  
-- Some content may be simplified compared to a traditional CV  
+Some content may be simplified compared to a traditional CV  
 
 ## Contact
 
